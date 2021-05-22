@@ -30,7 +30,7 @@ python hackertarget.py
  ##### View :
 
 ```
-root@ismailtasdelen:~# python hackertarget.py
+root@ismailtasdelen:~# python3 hackertarget.py
 
   _               _              _                          _
  | |_   __ _  __ | |__ ___  _ _ | |_  __ _  _ _  __ _  ___ | |_

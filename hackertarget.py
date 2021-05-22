@@ -10,8 +10,8 @@ hackertarget_logo = """
  | ' \ / _` |/ _|| / // -_)| '_||  _|/ _` || '_|/ _` |/ -_)|  _|
  |_||_|\__,_|\__||_\_\\___||_|   \__|\__,_||_|  \__, |\___| \__|
                                                 |___/
-                 Ismail Tasdelen
- | github.com/ismailtasdelen | linkedin.com/in/ismailtasdelen |
+                 Reynaldy Zanuar Ramadhan
+ | github.com/RSecxxx | Author RSecxXx.iĐ |
 """
 
 menu = """

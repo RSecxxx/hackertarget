@@ -13,7 +13,7 @@ Thank you for your support at !
 
 ## Clone with HTTPS
 ```
-git clone https://github.com/ismailtasdelen/hackertarget.git
+git clone https://github.com/RSecxxx/hackertarget.git
 cd hackertarget/
 ```
 ## Run pip3 install to set up this script
@@ -100,7 +100,7 @@ Support the authors:
 
 ##### Paypal:
 
-https://paypal.me/ismailtsdln
+https://paypal.me/reynaldyzanuar
 
 ##### LiberaPay:
 
